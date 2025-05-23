@@ -168,9 +168,6 @@ for i=1:length(sol.Pi)
 end
 fprintf("Total Generation    \t%.3f\n\n",sum(sol.Pi))
 
-fprintf("\n\n")
-
-fprintf("Total cost    \t%.3f\n",TotalCost)
 
 fprintf("\n\n")
 
